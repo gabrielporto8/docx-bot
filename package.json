@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabrielporto8/wordbot/issues"
   },
-  "homepage": "https://github.com/gabrielporto8/wordbot#readme"
+  "homepage": "https://github.com/gabrielporto8/wordbot#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
 }
