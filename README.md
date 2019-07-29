@@ -1,2 +1,2 @@
-# wordbot
-Projeto open source para fazer textos automatizados no Word
+# docx-bot
+Projeto open source para fazer textos automatizados .docx
